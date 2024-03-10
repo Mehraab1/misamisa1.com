@@ -9,7 +9,7 @@ heart.addEventListener('click',function(){
 
 // 打字效果
 let i =0
-let str = 'Happy 19th birthday Misa! May all your wishes come true and may you have an awesome year ahead. Despite how it all ended, I still have no regrets about all the time I spent with you. Those are one of my happiest moments of my life. You are an amazing person to have around oneself. I really improved a lot after meeting you. You have been so strong to come so far regardless of all the challenges you faced in your life. Keep on being like that and you’ll be very successful in your life. I’m proud of you and happy that I came to know you. I hope you clear the jee exam and get into your dream college, after all you deserve the very best. And if you ever needed help, I’m always here to help you in best possible way I can. Enjoy your day. Happy birthday once again. Take care!'
+let str = 'Happy 19th birthday Misa! May all your wishes come true and may you have an awesome year ahead. Despite how it all ended, I still have no regrets about all the time I spent with you. Those are one of my happiest moments of my life. You are an amazing person to have around oneself. I really improved a lot after meeting you. You have been so strong to come so far regardless of all the challenges you faced in your life. Keep on being like that and you’ll be very successful in your life. I’m proud of you and happy that I came to know you. I hope you clear the jee exam and get into your dream college, after all you deserve the very best. If you ever needed help or motivation, I’m always here for you. Happy birthday once again. Take care!'
 let strp = ''
 function print()
 {
